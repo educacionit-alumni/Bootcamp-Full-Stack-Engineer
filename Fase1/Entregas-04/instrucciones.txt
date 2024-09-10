@@ -1,0 +1,5 @@
+1. Hacer un fork de este repo
+2. Clonar el proyecto
+3. Crear una rama 'resolucion'
+4. Crear en este lugar una carpeta con nombre y apellido y dentro la resolución correspondiente
+5. Hacer Pull Request para enviar el ejercicio

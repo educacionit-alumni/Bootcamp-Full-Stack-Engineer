@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    user-select: none;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#container {
+    margin: 20px auto;
+    width: 70%;
+    height: 75vh;
+}
+
+#teclas {
+    width: 240px;
+    margin: auto;
+}
+
+.tecla {
+    width: 60px;
+    height: 60px;
+    background: #000;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+#display {
+    margin: auto;
+
+    width: 240px;
+    height: 50px;
+    font-size: 36px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    text-align: right;
+    padding-right: 2px;
+    border-radius: 5px;
+}
